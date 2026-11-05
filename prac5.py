@@ -1,3 +1,4 @@
+#TC:2^n
 n = int(input("Enter N:"))
 pegs = {
   'A' : list(range(n,0,-1)),
