@@ -1,4 +1,4 @@
-
+#TC: logN
 # Intelligent Number Guessing Agent
 low = 1
 high = 100
