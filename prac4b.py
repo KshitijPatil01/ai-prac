@@ -1,3 +1,4 @@
+#TC:(n*k)
 import re
 rules = [
     (r"\bhello\b|\bhi\b|\bhey\b", "Hello! How can I help you?"),
