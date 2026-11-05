@@ -1,4 +1,4 @@
-
+#TC: n!
 # 8 Queens Problem using Backtracking
 N = 8
 board = [['.' for _ in range(N)] for _ in range(N)]
