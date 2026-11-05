@@ -1,6 +1,6 @@
 
 # DFS using Graph
-
+#TC: (V+E)
 graph = {
     'A': ['B', 'C'],
     'B': ['D', 'E'],
