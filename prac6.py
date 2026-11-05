@@ -1,3 +1,4 @@
+#TC:9^m
 def valid(board, row, col, num):
     # Check row and column
     for i in range(9):
